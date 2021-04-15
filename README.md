@@ -9,7 +9,6 @@ Este repositório têm como objetivo apresentar conceitos de **Data Analytics**.
 Exigido | Permitido | Proibido
 --- | --- | ---
 Aviso de licença e direitos autorais | Uso comercial | Responsabilidade Assegurada
---- | --- | ---
  | Modificação | 	
  | Distribuição | 	
  | Sublicenciamento | 	
